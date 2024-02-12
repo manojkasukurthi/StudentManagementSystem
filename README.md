@@ -1,4 +1,4 @@
-# StudentManagementSystem
+# StudentManagementSystem [switch to master branch]
 Student Management System
 java 8
 MySql 8
